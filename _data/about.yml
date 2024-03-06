@@ -1,4 +1,4 @@
-name: John Doe
+name: Avtandil Pangani
 
 # Uncomment this line to add an image to the document (image is never included in the
 # print version).
@@ -14,27 +14,27 @@ image: 'assets/images/profile.jpg'
 info:
   - name: email
     icon: email-outline
-    value: john.doe@example.com
-    link: mailto:john.doe@example.com
+    value: avto@din.ge
+    link: mailto:avto@din.ge
 
   - name: telno
     icon: phone
-    long: "+447123 456 789"
-    value: "+447123456789"
-    link: tel:+447123456789
+    long: "+995 591 011 018"
+    value: "+995591011018"
+    link: tel:+995591011018
 
   - name: linkedin
     value: "jdoe"
-    link: "https://www.linkedin.com/in/jdoe"
+    link: "https://avto.din.ge"
 
   - name: github
-    value: jdoe
-    short: jdoe
-    link: "https://github.com/jdoe"
+    value: trainer
+    short: trainer
+    link: "https://github.com/avtotrainer"
 
   - name: address
     icon: map-marker
-    value: 1 The Mall, SW1A 1AA
-    long: 1 The Mall, London, SW1A 1AA, UK
-    short: Buck House
+    value: მისამართი16 Alazani st,  The Mall, SW1A 1AA
+    long: გრძლელი მისამართი1 The Mall, London, SW1A 1AA, UK
+    short: ჩემი სახლი
     link: "https://goo.gl/maps/K2M488A4SG5hSzjV6"
